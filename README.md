@@ -1,4 +1,6 @@
 # Capstone-project-VII
+>>Click on RAW to see the code better
+>>
 my first Capstone project VII_draft on the UsArrests.csv
 ####Loading dataset
 import pandas as pd
